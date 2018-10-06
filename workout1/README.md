@@ -1,0 +1,1 @@
+This is my first workout assignment. I am practicing using the packages 'dplyr' and 'ggplot2'. I am looking at different ways to rank NBA teams.
