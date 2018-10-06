@@ -18,3 +18,4 @@ Private Repository for HW assignments of Stat 133 (Fall 2018)
 - Workout 3
 
 
+This is an exercise using dplyr and ggplot2.
